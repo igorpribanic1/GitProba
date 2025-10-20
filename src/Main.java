@@ -6,6 +6,7 @@ public class Main {
         for (int i = 1; i <= 5; i++) {
             suma += i;
         }
+        System.out.println("Dodatni ispis");
         System.out.println("Suma brojeva je: " + suma);
     }
 }
