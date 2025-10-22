@@ -8,5 +8,6 @@ public class Main {
         }
         System.out.println("Dodatni ispis");
         System.out.println("Suma brojeva je: " + suma);
+        // Novi komentar
     }
 }
